@@ -6,7 +6,6 @@ GEM
     rack (2.2.3)
     rack-protection (2.1.0)
       rack
-    redis (4.4.0)
     ruby2_keywords (0.0.5)
     sinatra (2.1.0)
       mustermann (~> 1.0)
@@ -20,7 +19,6 @@ PLATFORMS
   arm64-darwin-20
 
 DEPENDENCIES
-  redis
   sinatra
   webrick
 
